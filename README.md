@@ -10,7 +10,7 @@ struct aboutMe {
     let name = "Vladimir"
     var course = 2
     let university = "ITMO University, CT department"
-    var skills = ["Swift", "Java", "C/C++", "JavaScript", "Clojure", "Prolog", "bash", "Computer architecture", "Linear algebra", "Introduction and Paradigms in Programming"]
+    var skills = ["Swift", "Java", "C/C++", "JavaScript", "Clojure", "Prolog", "bash"]
 }
 ```
 
