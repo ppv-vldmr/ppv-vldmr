@@ -1,9 +1,9 @@
 ### Hi 👋
 
-<p align='center'>My decription</p>
+<p align='center'>I'm second year student of Computer Technologies Department in ITMO University.</p>
 
 
-### A little more about me...  
+### A little bit more about me...  
 
 ```swift
 struct aboutMe {
