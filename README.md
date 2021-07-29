@@ -1,16 +1,16 @@
 ### Hi 👋
 
-<p align='center'>I'm second year student of Computer Technologies Department in ITMO University.</p>
+<p align='center'>I'm third year student of Computer Technologies Department in ITMO University.</p>
 
 
 ### A little bit more about me...  
 
-```swift
-struct aboutMe {
-    let name = "Vladimir"
-    var course = 2
-    let university = "ITMO University, CT department"
-    var skills = ["Swift", "Java", "C/C++", "JavaScript", "Clojure", "Prolog", "bash"]
+```java
+public final class AboutMe {
+    private static final String MY_NAME = "Vladimir";
+    private static final String UNIVERSITY = "ITMO University, CT department";
+    private static final int COURSE = 3;
+    private static ArrayList<String> skills = List.of("Java", "Spring", "PostgreSQL", "bash");
 }
 ```
 
