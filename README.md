@@ -15,5 +15,6 @@ public final class AboutMe {
 ```
 
 ### Some Statistic
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ppv-vldmr alt=ppv-vldmr /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ppv-vldmr alt=ppv-vldmr /> </p>  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppv-vldmr&layout=compact&langs_count=10)](https://github.com/ppv-vldmr/github-readme-stats)
