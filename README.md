@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p align='center'>I'm third year student of Computer Technologies Department in ITMO University.</p>
+<p align='center'>I'm a 4th year student of Computer Technologies Department in ITMO University.</p>
 
 
 ### A little bit more about me...  
