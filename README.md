@@ -11,7 +11,7 @@ public final class AboutMe {
     private static final String UNIVERSITY = "ITMO University, CT department";
     private static final int COURSE = 4;
     private static ArrayList<String> skills = List.of("Java", "Spring", "PostgreSQL", "bash", "JUnit");
-    private statis ArrayList<String> additionalSkills = List.of("Swift", "Haskell", "Python", "JavaScript");
+    private static ArrayList<String> additionalSkills = List.of("Swift", "Haskell", "Python", "JavaScript");
 }
 ```
 
