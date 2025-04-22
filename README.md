@@ -5,7 +5,10 @@
 ```java
 public final class AboutMe {
     private static final String MY_NAME = "Vladimir Popov";
-    private static final String DEGREE = "Bachelor, Computer Science, ITMO University";
+    private static ArrayList<String> degrees = List.of(
+		"Bachelor, Computer Science, ITMO University",
+		"Master, Applied Informatics, ITMO University"  // currently pursuing...
+	);
     private static ArrayList<String> skills = List.of("Java", "Spring", "PostgreSQL", "bash", "JUnit");
     private static ArrayList<String> additionalSkills = List.of("Swift", "Haskell", "Python", "JavaScript");
 }
